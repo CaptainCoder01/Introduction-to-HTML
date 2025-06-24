@@ -404,3 +404,29 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# VS Code editor folder
+.vscode/
+
+# Logs or backups (if you generate them later)
+*.log
+*.bak
+*.tmp
